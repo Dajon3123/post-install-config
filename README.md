@@ -6,9 +6,9 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +22,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1, Configure Roles (for grouping permissions)
+Navigate to Admin Panel -> Agents -> Roles
+Create and configure roles, such as Supreme Admin, with permissions for full access to system features. 
+- Item 2, Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+Navigate to Admin Panel -> Agents -> Departments
+Set up department structures, for example, create SysAdmins to handle tickets related to system administration.
+- Item 3, Configure Teams (Pull Agents from different Departments)
+Navigate to Admin Panel -> Agents -> Teams
+Set up teams such as Online Banking by pulling agents from multiple departments, such as Support and SysAdmins.
+- Item 4, Allow Anyone to Create Tickets
+Navigate to Admin Panel -> Settings -> User Settings
+UNcheck the option to allow unregistered users to create tickets. Require registration and login for users to create tickets.
+- Item 5, Configure SLA (Service Level Agreements)
+Navigate to Admin Panel -> Manage -> SLA
+Define different SLA levels, for example:
+Sev-A with a grace period of 1 hour, 24/7 schedule.
+Sev-B with a grace period of 4 hours, 24/7 schedule.
+Sev-C with a grace period of 8 hours, business hours schedule.
 
 <h2>Configuration Steps</h2>
 
