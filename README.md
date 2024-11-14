@@ -55,7 +55,7 @@ This screenshot demonstrates the osTicket post-installation setup, showcasing bo
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+These images showcase the osTicket post-installation process, highlighting key configuration steps. It demonstrates how to configure teams by pulling agents from different departments, such as creating an Online Banking team. It also shows how to enforce registration requirements by unchecking the option that allows unregistered users to create tickets, ensuring users must log in before submitting tickets. The image further illustrates how to configure agents (e.g., Jane in SysAdmins and John in Support) and add customer users (e.g., Karen and Ken) to enable them to submit and track their tickets. These steps are essential for structuring your ticketing system and streamlining user and agent management.
 </p>
 <br />
 
