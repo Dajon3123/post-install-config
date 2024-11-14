@@ -63,6 +63,6 @@ These images showcase the osTicket post-installation process, highlighting key c
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot illustrates the configuration of Service Level Agreements (SLAs) and Help Topics within osTicket. It shows how to define SLAs with different grace periods and schedules, such as Sev-A (1 hour grace period, 24/7 schedule), Sev-B (4 hours grace period, 24/7 schedule), and Sev-C (8 hours grace period, business hours). Additionally, it demonstrates setting up Help Topics that users can select when submitting tickets, such as Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other. These configurations help streamline ticket management and categorize incoming requests for better resolution handling.
 </p>
 <br />
