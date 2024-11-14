@@ -44,10 +44,10 @@ Sev-C with a grace period of 8 hours, business hours schedule.
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/wzeun5p.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot demonstrates the osTicket post-installation setup, showcasing both the admin panel configuration and the client portal. It highlights how to configure user roles, departments, and teams to manage ticket visibility and agent permissions. Additionally, it shows the client portal where users can submit tickets. This image illustrates the configuration process for roles, allowing admins to assign permissions and set up efficient workflows for managing support requests.
 </p>
 <br />
 
